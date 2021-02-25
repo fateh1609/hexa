@@ -1,0 +1,43 @@
+
+h1{
+    color: #1a7d;
+    border : 1px solid;
+}
+
+.header{
+    background-color: #ba72fd;
+    display : flex;
+    justify-content: center;
+}
+.para{
+    background-color: #1afd76;
+    text-align: center;
+}
+.car{
+    background-color: #aa289c;
+    display:flex;
+    justify-content: center;
+}
+.trex{
+    background-color: #2dafd8;
+    display:flex;
+    justify-content: center;
+}
+.bird{
+    background-color: #facd28;
+    display: flex;
+    justify-content: center;
+}
+.ping{
+    background-color: #1832f2;
+    display: flex;
+    justify-content: center;
+}
+.social{
+    background-color:#ffffff;
+    display: flex;
+    justify-content:center;
+}
+body{
+    background-color: #9fa112;
+}
